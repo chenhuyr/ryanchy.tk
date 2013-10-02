@@ -3,15 +3,39 @@
 	{
 		"selected_items":
 		[
+			[
+				"post",
+				"post"
+			],
+			[
+				"M",
+				"mainController"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "scripts/core.js",
+			"settings":
+			{
+				"buffer_size": 3162,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Ryan Cheng/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 756,
+				"buffer_size": 363,
 				"line_ending": "Unix"
 			}
 		}
@@ -40,6 +64,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Ryan Cheng/Documents/GitHub/ryanchy.tk/ryanchy.tk.sublime-project",
+		"/C/Users/Ryan Cheng/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ryan Cheng/Documents/GitHub/ryanchy.tk/index.html",
+		"/C/Users/Ryan Cheng/Documents/ryanchy.tk/site/resources/config.php",
 		"/Users/ryancheng/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
 	],
 	"find":
@@ -80,18 +108,71 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "scripts/core.js",
 					"settings":
 					{
-						"buffer_size": 756,
+						"buffer_size": 3162,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3099,
+								3099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1575.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Ryan Cheng/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
 							]
 						],
 						"settings":
@@ -114,7 +195,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
