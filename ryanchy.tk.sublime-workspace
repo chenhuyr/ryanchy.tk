@@ -16,26 +16,18 @@
 	"buffers":
 	[
 		{
-			"file": "scripts/core.js",
+			"file": "ryanftp/scripts/core.js",
 			"settings":
 			{
-				"buffer_size": 3162,
+				"buffer_size": 2069,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Ryan Cheng/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 179,
-				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 363,
+				"buffer_size": 428,
 				"line_ending": "Unix"
 			}
 		}
@@ -64,9 +56,12 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Ryan Cheng/Documents/GitHub/ryanchy.tk/ryanchy.tk.sublime-project",
-		"/C/Users/Ryan Cheng/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ryan Cheng/Documents/GitHub/ryanchy.tk/ryanftp/scripts/backbone-mvc.js",
 		"/C/Users/Ryan Cheng/Documents/GitHub/ryanchy.tk/index.html",
+		"/C/Users/Ryan Cheng/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ryan Cheng/Documents/GitHub/ryanchy.tk/json/posts.json",
+		"/C/Users/Ryan Cheng/Documents/GitHub/ryanchy.tk/scripts/core.js",
+		"/C/Users/Ryan Cheng/Documents/GitHub/ryanchy.tk/ryanchy.tk.sublime-project",
 		"/C/Users/Ryan Cheng/Documents/ryanchy.tk/site/resources/config.php",
 		"/Users/ryancheng/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
 	],
@@ -108,18 +103,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "scripts/core.js",
+					"file": "ryanftp/scripts/core.js",
 					"settings":
 					{
-						"buffer_size": 3162,
+						"buffer_size": 2069,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3099,
-								3099
+								1980,
+								1980
 							]
 						],
 						"settings":
@@ -128,51 +123,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1575.0,
+						"translation.y": 765.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Ryan Cheng/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 179,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								179,
-								179
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 363,
+						"buffer_size": 428,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								322,
-								322
+								281,
+								281
 							]
 						],
 						"settings":
